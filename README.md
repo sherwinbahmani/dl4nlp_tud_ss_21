@@ -59,7 +59,9 @@ Arguments for training and/or testing:
 - ```--false-label```: False label in dataset. Default: `0`
 
 ### Example output
-```User query```: Tell me about Computers
+```User query```:
+Tell me about Computers
+
 ```Propagated clarifying questions```:
 1) do you like using computers
 2) do you want to know how to do computer programming
