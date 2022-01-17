@@ -60,9 +60,11 @@ Arguments for training and/or testing:
 
 ### Example output
 ```User query```:
+
 Tell me about Computers
 
 ```Propagated clarifying questions```:
+
 1) do you like using computers
 2) do you want to know how to do computer programming
 3) do you want to see some closeup of a turbine
