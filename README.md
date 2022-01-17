@@ -42,7 +42,7 @@ Arguments for training and/or testing:
 - ```--test-file-name```: Name of test file name in data-root. Default: `test_set.tsv`
 - ```--question-bank-name```: Name of question bank file name in data-root. Default: `question_bank.tsv`
 - ```--checkpoints-root```: Path to checkpoints folder. Default: `checkpoints`
-- ```--checkpoint-name```: File name of checkpoint checkpoints-root to start training or use for testing. Default: `None`
+- ```--checkpoint-name```: File name of checkpoint in checkpoints-root to start training or use for testing. Default: `None`
 - ```--runs-root```: Path to output runs folder for tensorboard. Default: `runs`
 - ```--txt-root```: Path to output txt folder for evaluation results. Default: `txt`
 - ```--lr```: Learning rate. Default: `1e-5`
